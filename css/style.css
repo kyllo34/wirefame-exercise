@@ -1,0 +1,24 @@
+li {
+  display: inline-block;
+  width: 100px;
+  padding: 20px;
+}
+ul {
+  float: right
+}
+header {
+  background-color: gray;
+}
+header * {
+  display: inline-block;
+}
+main {
+  margin: 50px;
+}
+header > img {
+  margin-left: 50px;
+  margin: 10px;
+}
+
+
+  
