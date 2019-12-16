@@ -18,6 +18,17 @@ main {
 header > img {
   margin: 5px 50px 5px 50px;
 }
-
+footer {
+  background-color: gray;
+}
+p {
+  overflow: scroll;
+}
+.rightdiv {
+  width: 400px;
+}
+.button {
+  cursor: pointer;
+}
 
   
